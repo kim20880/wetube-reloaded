@@ -1,0 +1,16 @@
+{
+  "name": "wetube",
+  "version": "1.0.0",
+  "description": "The best way to watch Videos.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kim20880/wetube-reloaded.git"
+  },
+  "author": "sanghun kim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kim20880/wetube-reloaded/issues"
+  },
+  "homepage": "https://github.com/kim20880/wetube-reloaded#readme"
+}
